@@ -12,8 +12,8 @@ The Editor Utility Widget emits Unreal’s sequence editor current frame, start 
 
 ## Installation
 
-Unreal Engine:
+### Unreal Engine
 Copy UESequencerSync folder into `<YourProjectDirectory>/Plugins`.
 
-TouchDesigner:
+### TouchDesigner
 Use UESequencerSync.tox in your project and point to the desired time COMP. See TDSequencerSync.toe for example.

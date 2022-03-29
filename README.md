@@ -10,7 +10,7 @@ This works for _in-editor_ workflows and deactivates when running PIE or stand a
 
 [Here is a quick walkthrough video](https://www.dropbox.com/s/4jm60ywik976olw/UESequencerSync_Plugin.mp4?dl=0)
 
-![Screenshot of UESequencerSync running in Unreal Engine and TouchDesigner.](https://images.squarespace-cdn.com/content/v1/5332dbfce4b0ba68c7397807/1648537262727-GGYM2MN7KSIG82K46R3L/UESequencerSync.png?format=1500w)
+![Screenshot of UESequencerSync running in Unreal Engine and TouchDesigner.](https://images.squarespace-cdn.com/content/v1/5332dbfce4b0ba68c7397807/1648574107752-0YTIB49A4RPSWSVF422C/UESequencerSync.png?format=1500w)
 
 ## Installation
 
